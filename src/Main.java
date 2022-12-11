@@ -59,7 +59,7 @@ public class Main {
 
     }
         static public void task5() {
-            int age= 15 ;
+            int age= 15;
             boolean adult = true ;
                 if ( age < 5 ) {
                     System.out.println("Если возраст ребенка равен " +  age + ", то ему нельзя кататься на аттракционе.");
